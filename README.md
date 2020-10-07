@@ -10,9 +10,9 @@ you find anything wrong in here or if you encounter any problems and I'll
 try to find a solution.
 
 Modules & packages imported within the project:
-> multiprocessing
-> math
-> time
-> sys
-> queue
-> os (though not used - maybe I'll remove the line later)
+- multiprocessing
+- math
+- time
+- sys
+- queue
+- os (though not used - maybe I'll remove the line later)
