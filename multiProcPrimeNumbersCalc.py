@@ -23,8 +23,6 @@ using more than one core.
 
 counter = mp.Value("d", 1)
 
-s.setrecursionlimit(10 ** 5)
-
 def primeCalc(number):
     if number == 2:
         return True
