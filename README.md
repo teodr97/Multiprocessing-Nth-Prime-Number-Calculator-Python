@@ -7,7 +7,7 @@ doing so.
 This is my first complete attmept at making a program that calculates
 the first 'N' prime numbers using more than one process. Please tell me if
 you find anything wrong in here or if you encounter any problems and I'll
-try to find a solution.
+try to find a solution. I made this as a learning project.
 
 Modules & packages imported within the project:
 - multiprocessing
