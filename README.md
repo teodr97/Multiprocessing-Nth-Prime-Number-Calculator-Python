@@ -15,4 +15,3 @@ Modules & packages imported within the project:
 - time
 - sys
 - queue
-- os (though not used - maybe I'll remove the line later)
